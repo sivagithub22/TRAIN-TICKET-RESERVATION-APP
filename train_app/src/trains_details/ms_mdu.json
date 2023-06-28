@@ -1,0 +1,22 @@
+[
+    {
+        "tname": "POTHIGAI EXPRESS",
+        "hrs": "07hrs 40mins",
+        "ntime": "20:40-04:20",
+        "rtime": "21:50-05:40",
+        "code" : "12661",
+        "time" : "",
+        "start": "",
+        "end": ""
+    },
+    {
+        "tname": "KANYAKUMARI EXPRESS",
+        "hrs": "7hrs 35mins",
+        "ntime": "17:20-00:55",
+        "rtime": "22:05-06:10",
+        "code": "12633",
+        "time": "",
+        "start": "",
+        "end": ""
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "tname": "TEJAS EXPRESS",
+        "hrs": "3hrs 55mins",
+        "ntime": "06:00-09:55",
+        "rtime": "17:05-21:15",
+        "code" : "22671",
+        "time" : "",
+        "start": "",
+        "end": ""
+    },
+    {
+        "tname": "VAIGAI EXPRESS",
+        "hrs": "5hrs 10mins",
+        "ntime": "13:50-18:40",
+        "rtime": "09:20-14:30",
+        "code": "12635",
+        "time": "",
+        "start": "",
+        "end": ""
+    }
+]

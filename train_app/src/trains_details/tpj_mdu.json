@@ -1,0 +1,22 @@
+[
+    {
+        "tname": "PANDIAN EXPRESS",
+        "hrs": "2hrs 35mins",
+        "ntime": "02:50-05:25",
+        "rtime": "17:05-21:15",
+        "code" : "12637",
+        "time" : "",
+        "start": "",
+        "end": ""
+    },
+    {
+        "tname": "PEARL CITY EXPRESS",
+        "hrs": "2hrs 10mins",
+        "ntime": "00:55-03:05",
+        "rtime": "23:05-01:30",
+        "code": "12693",
+        "time": "",
+        "start": "",
+        "end": ""
+    }
+]

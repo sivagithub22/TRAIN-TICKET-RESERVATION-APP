@@ -1,0 +1,16 @@
+table{
+    border: none;
+    padding: 7px;
+    background-color: wheat;
+    column-gap: 5px;
+}
+th{
+    background-color: brown;
+    padding: 5px;
+    color: white;
+}
+td{
+    background-color: white;
+    padding: 5px;
+    color: black;
+}

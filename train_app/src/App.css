@@ -1,0 +1,11 @@
+.body{
+    min-height: 100vh;
+  }
+.bg{
+    background-image: url(C:\Users\Sivae\Desktop\REACT\train_app\src\assets\bg_4.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover; 
+}
